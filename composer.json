@@ -1,5 +1,5 @@
 {
-    "name": "caxy/php-htmldiff",
+    "name": "tactics/php-htmldiff",
     "type": "library",
     "description": "A library for comparing two HTML files/snippets and highlighting the differences using simple HTML.",
     "keywords": [
